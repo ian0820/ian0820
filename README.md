@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ian0820
-- 👀 I’m interested in Web Development and Graphic Designing 
 - Student
 
 <!---
